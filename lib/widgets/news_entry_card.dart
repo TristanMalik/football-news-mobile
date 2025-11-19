@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:football_news/models/news_entry.dart';
-import 'package:football_news/screens/news_detail.dart';
 
 class NewsEntryCard extends StatelessWidget {
   final NewsEntry news;

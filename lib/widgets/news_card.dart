@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:football_news/widgets/left_drawer.dart';
-import 'package:football_news/widgets/news_card.dart';
-import 'package:football_news/screens/newslist_form.dart';
 import 'package:football_news/screens/news_entry_list.dart';
 import 'package:football_news/screens/login.dart';
 import 'package:pbp_django_auth/pbp_django_auth.dart';

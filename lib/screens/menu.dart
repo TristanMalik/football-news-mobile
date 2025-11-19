@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:football_news/widgets/left_drawer.dart';
 import 'package:football_news/widgets/news_card.dart';
-import 'package:football_news/screens/newslist_form.dart';
 
 
 class InfoCard extends StatelessWidget {
